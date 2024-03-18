@@ -21,7 +21,7 @@ The library automatically does the json marshaling for you on `Write(in interfac
 package main
 
 import(
-    "github.com/simonfrey/jsonl"
+    "github.com/yarikbratashchuk/jsonl"
     "bytes"
 )
 
@@ -53,7 +53,7 @@ the json unmarshaling for you.
 package main
 
 import(
-    "github.com/simonfrey/jsonl"
+    "github.com/yarikbratashchuk/jsonl"
     "strings"
 )
 
@@ -85,7 +85,7 @@ In the following example you learn how you can read JSONL typesafe in golang.
 package main
 
 import(
-    "github.com/simonfrey/jsonl"
+    "github.com/yarikbratashchuk/jsonl"
     "strings"
 )
 

@@ -2,7 +2,7 @@ package jsonl_test
 
 import (
 	"bytes"
-	"github.com/vitalfrog/jsonl"
+	"github.com/yarikbratashchuk/jsonl"
 	"testing"
 )
 
